@@ -1,4 +1,4 @@
-# livro-de-receitas
+# api-livro-de-receitas
 # Sumario
 [cocada](/cocada.md)
 [brigadeiro](/brigadeiro.md)
